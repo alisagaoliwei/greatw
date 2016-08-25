@@ -1,0 +1,21 @@
+html{
+	cursor:url(../images/arrow.png) 0 0,auto;
+}
+body {
+	background: #032238 url(../images/background.jpg) no-repeat scroll center top;
+}
+
+#heart {
+	position: absolute;
+}
+
+#info {
+	color: #fff;
+	font: 14px "microsoft yahei";
+	opacity: 1;
+	position: absolute;
+}
+i{
+	font-style: normal;
+	color: #fff;
+}
